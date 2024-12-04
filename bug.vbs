@@ -1,0 +1,1 @@
+Late Binding in VBScript can lead to runtime errors if an object doesn't support the method or property you're trying to access.  This often manifests as a "Type mismatch" or "Object doesn't support this property or method" error.  The lack of compile-time checking makes it difficult to catch these issues during development.
